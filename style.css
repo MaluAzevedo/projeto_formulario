@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+div.cabecalho img#icone {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}
+
+div.cabecalho h1{
+    position: relative;
+    left: 70px;
+    top: 5px;
+}
+
+
+div.formulario button {
+    box-shadow: 0px 3px 3px 0px rgb(82, 81, 81);
+}
